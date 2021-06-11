@@ -18,8 +18,8 @@ To complete the assignment, please do the following:
 # My Project
 I want to know which kinds of Onigiri you like.
 There are so many kinds of Onigiri in Japan or even oversea!
-Please tell me.
+Please tell me. You CAN add one which has been already added.
 
 # List of Onigiri
-1. Shake(鮭)
+1. Shake(鮭)(example,you can write in English or Japanese. don't have to write both. Thank you!)
 2. Sea kelp(昆布)
