@@ -23,4 +23,5 @@ Please tell me. You CAN add one which has been already added.
 # List of Onigiri
 1. Shake(鮭)(example,you can write in English or Japanese. don't have to write both. Thank you!)
 2. Sea kelp(昆布)
+3. Tuna Mayo
 ツナマヨ
