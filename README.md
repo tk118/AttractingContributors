@@ -15,9 +15,10 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project
+I want to know which kinds of Onigiri you like.
+There are so many kinds of Onigiri in Japan or even oversea!
+Please tell me.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Onigiri
+1. Shake(鮭)
