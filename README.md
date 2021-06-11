@@ -20,5 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Text Editor
-- Hidemaru Editor
+# List of Onigiri
+1. Shake(鮭)(example,you can write in English or Japanese. don't have to write both. Thank you!)
+2. Sea kelp(昆布)
+3. tunamayo(ツナマヨ)
