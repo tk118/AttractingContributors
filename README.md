@@ -15,12 +15,14 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# My Project
+I want to know which kinds of Onigiri you like.
+There are so many kinds of Onigiri in Japan or even oversea!
+Please tell me. You CAN add one which has been already added.
 
 # List of Onigiri
 1. Shake(鮭)(example,you can write in English or Japanese. don't have to write both. Thank you!)
 2. Sea kelp(昆布)
 3. tunamayo(ツナマヨ)
+4. Tuna Mayo
+ツナマヨ
