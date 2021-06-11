@@ -22,3 +22,4 @@ Please tell me.
 
 # List of Onigiri
 1. Shake(鮭)
+2. Sea kelp(昆布)
