@@ -25,4 +25,5 @@ Please tell me. You CAN add one which has been already added.
 2. Sea kelp(昆布)
 3. tunamayo(ツナマヨ)
 4. Tuna Mayo
-ツナマヨ
+5. ツナマヨ
+6. Tuna-Mayonnaise
