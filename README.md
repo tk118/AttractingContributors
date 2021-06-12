@@ -26,4 +26,5 @@ Please tell me. You CAN add one which has been already added.
 3. tunamayo(ツナマヨ)
 4. Tuna Mayo
 5. ツナマヨ
-6. Tuna-Mayonnaise
+6. 鯖生姜
+7. Tuna-Mayonnaise
